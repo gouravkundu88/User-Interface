@@ -17,4 +17,14 @@
     background-color: var(--background);
     font-family: Mulish;
 }
-
+h1 {
+    color: var(--secondary);
+}
+.background {
+    content: "";
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    background-image: url(universe.jpg);
