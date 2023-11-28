@@ -109,3 +109,6 @@ h1 {
     text-indent: 20px;
     margin-top: 8px;
 }
+.my-form__button:hover {
+    background-color: var(--primary-hover);
+}
