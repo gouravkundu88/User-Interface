@@ -112,3 +112,6 @@ h1 {
 .my-form__button:hover {
     background-color: var(--primary-hover);
 }
+.text-field {
+    position: relative;
+}
