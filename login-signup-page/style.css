@@ -130,3 +130,10 @@ h1 {
 .text-field input:focus {
     border: 1px solid var(--primary);
 }
+.text-field label {
+    color: var(--secondary);
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: .03rem;
+    z-index: 10;
+}
