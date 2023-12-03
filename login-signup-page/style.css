@@ -148,3 +148,7 @@ h1 {
 .my-form__actions {
     display: flex;
     flex-direction: column;
+    color: var(--secondary);
+    gap: 16px;
+    margin-top: 8px;
+}
