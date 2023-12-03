@@ -145,3 +145,6 @@ h1 {
     transform: translate(-50%, -50%);
     transform-origin: center;
 }
+.my-form__actions {
+    display: flex;
+    flex-direction: column;
