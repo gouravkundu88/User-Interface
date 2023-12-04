@@ -152,3 +152,7 @@ h1 {
     gap: 16px;
     margin-top: 8px;
 }
+.my-form__actions a {
+    color: var(--secondary);
+    font-weight: 600;
+}
