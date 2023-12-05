@@ -159,3 +159,7 @@ h1 {
 .my-form__actions a:hover {
     color: #a7a2cb;               
 }
+.my-form__row {
+    display: flex;
+    justify-content: space-between;
+}
