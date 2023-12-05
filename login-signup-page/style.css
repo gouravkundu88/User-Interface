@@ -163,3 +163,7 @@ h1 {
     display: flex;
     justify-content: space-between;
 }
+.my-form__signup {
+    display: flex;
+    justify-content: center;
+}
