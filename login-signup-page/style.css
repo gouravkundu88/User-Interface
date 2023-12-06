@@ -167,3 +167,6 @@ h1 {
     display: flex;
     justify-content: center;
 }
+.my-form__signup a {
+    color: var(--primary);
+    font-weight: 800;
